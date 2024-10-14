@@ -1,17 +1,25 @@
 body {
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 header {
-    position: sticky;
     background-color: f4f4f4;
-    paddin: 20px;
+    padding: 20px;
 }
 .headerButton {
     text-decoration: none;
     color: black;
-    transition: 0.5s;
+    display:inline-block;
+    margin:0;
 }
-.headerButton:hover {
-    text-decoration: underline;
-    color; red;
+.headerButton:after {
+  display:block;
+  content: '';
+  border-bottom: solid 2px #B1040E;  
+  transform: scaleX(0);  
+  transition: transform 250ms ease-in-out;
 }
+.headerButton:hover:after { transform: scaleX(1); }
+.headerButton.fromRight:after{ transform-origin:100% 50%; }
+.headerButton.fromLeft:after{  transform-origin:  0% 50%; }
