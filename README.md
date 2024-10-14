@@ -1,2 +1,2 @@
-The Website - No name yet
+The Website - Non-official Stanford Website
 Made by Thomas and Raphael
