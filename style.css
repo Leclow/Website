@@ -9,7 +9,9 @@ header {
 .headerButton {
     text-decoration: none;
     color: black;
+    transition: 0.5s;
 }
 .headerButton:hover {
     text-decoration: underline;
+    color; red;
 }
