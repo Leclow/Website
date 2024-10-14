@@ -4,14 +4,14 @@ body {
     align-items: center;
 }
 header {
-    background-color: f4f4f4;
-    padding: 20px;
+    background-color: white;
+    padding: 10px;
 }
 .headerButton {
     text-decoration: none;
     color: black;
     display:inline-block;
-    margin:0;
+    margin: 20px;
 }
 .headerButton:after {
   display:block;
