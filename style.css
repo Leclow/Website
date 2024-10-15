@@ -4,7 +4,8 @@ body {
     align-items: center;
 }
 header {
-    position:static;
+    top: 10px;
+    position: sticky;
     background-color: white;
     padding: 10px;
 }
@@ -28,3 +29,9 @@ header {
 img {
     max-width: 1500px;
 }
+.other-block {
+    height: 5000px;
+    margin-top: 20px;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+  }
