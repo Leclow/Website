@@ -36,3 +36,10 @@ img {
     width: 100%;
     background-color: rgb(61, 61, 61);
   }
+footer {
+    text-align: center;
+    background-color: rgb(10,10,15);
+}
+footer p {
+    color: white;
+}
