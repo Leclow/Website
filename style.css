@@ -36,3 +36,15 @@ img {
     width: 100%;
     background-color: rgba(255, 145, 0, 0.493);
   }
+.another_block{
+    height: 10000px;
+    margin-top: 40px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.856);
+}
+.And_another_block{
+    height: 10000px;
+    margin-top: 40px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.856);
+}
