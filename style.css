@@ -59,7 +59,7 @@ img {
   }
 footer {
     text-align: center;
-    background-color: #771212;
+    background: linear-gradient(#771212, #620f0f);
 }
 footer p {
     color: white;
