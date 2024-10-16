@@ -3,7 +3,6 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Helvetica;
-
 }
 header {
     display:flex;
@@ -60,7 +59,7 @@ img {
   }
 footer {
     text-align: center;
-    background-color: rgb(10,10,15);
+    background-color: #771212;
 }
 footer p {
     color: white;
