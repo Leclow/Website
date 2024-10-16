@@ -57,6 +57,18 @@ img {
     width: 100%;
     background-color: rgb(61, 61, 61);
   }
+  .another_block{
+    height: 1000px;
+    margin-top: 40px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.856);
+}
+.And_another_block{
+    height: 100px;
+    margin-top: 40px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.856);
+}
 footer {
     text-align: center;
     background: linear-gradient(#771212, #620f0f);
