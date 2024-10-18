@@ -85,11 +85,13 @@ footer p {
 }
 
 .card {
+    border: solid black 2px;
     margin: 20px;
-    background-color: red;         
+    background-color: white;         
     position:relative;          
 }
 .cardDate {
+    font-size: x-large;
     top: -40px;
     margin-left: 10px;
     position: relative;
@@ -98,9 +100,11 @@ footer p {
     color: white;
 }
 .cardContent{
-    background-color: blue;
+    background-color: white;
     text-align: left;
-
+}
+.cardContent h1{
+    font-size: xx-large;
 }
 .cardImg {
     position: relative;
