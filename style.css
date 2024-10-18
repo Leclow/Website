@@ -84,3 +84,29 @@ footer p {
     color: white;
 }
 
+.card {
+    margin: 20px;
+    background-color: red;         
+    position:relative;          
+}
+.cardDate {
+    top: -40px;
+    margin-left: 10px;
+    position: relative;
+    width:50px;
+    background-color: black;
+    color: white;
+}
+.cardContent{
+    background-color: blue;
+    text-align: left;
+
+}
+.cardImg {
+    position: relative;
+}
+.card-list {
+    display: flex;
+    align-content: center;
+    padding: 20px;
+}
