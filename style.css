@@ -34,5 +34,15 @@ img {
     height: 5000px;
     margin-top: 20px;
     width: 100%;
-    background-color: rgb(61, 61, 61);
+    background-color: rgb(85, 85, 85);
   }
+#bloc1 {
+    background-color:rgb(201, 30, 144);
+    margin: 20px;
+}
+
+#bloc1 img {
+    width: 50px;
+}
+
+ 
