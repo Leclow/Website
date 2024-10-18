@@ -35,5 +35,39 @@ img {
     margin-top: 20px;
     width: 100%;
     background-color: rgba(255, 145, 0, 0.493);
-  }
-
+}
+.who{
+    height: 200px;
+    margin-top: 6px;
+    width: 100%;
+    background-color: darkgrey;
+    text-align: left;
+}
+.execellence{
+    height: 200px;
+    margin-top: 6px;
+    width: 100%;
+    background-color: darkgrey;
+    text-align: left;
+}
+.rapidly_kms{
+    height: 200px;
+    margin-top: 6px;
+    width: 100%;
+    background-color: darkgrey;
+    text-align: left;
+}
+.creating{
+    height: 200px;
+    margin-top: 6px;
+    width: 100%;
+    background-color: darkgrey;
+    text-align: left;
+}
+.educate{
+    height: 200px;
+    margin-top: 6px;
+    width: 100%;
+    background-color: darkgrey;
+    text-align: left;
+}
