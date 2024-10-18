@@ -31,20 +31,9 @@ img {
     max-width: 1500px;
 }
 .other-block {
-    height: 5000px;
+    height: 500px;
     margin-top: 20px;
     width: 100%;
     background-color: rgba(255, 145, 0, 0.493);
   }
-.another_block{
-    height: 1000px;
-    margin-top: 40px;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.856);
-}
-.And_another_block{
-    height: 100px;
-    margin-top: 40px;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.856);
-}
+
