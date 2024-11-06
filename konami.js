@@ -1,3 +1,4 @@
+
 // a key map of allowed keys
 var allowedKeys = {
   37: 'left',
