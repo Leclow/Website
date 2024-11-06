@@ -60,7 +60,6 @@ img {
 .A_Societal_Mission{
     height: 250px;
     margin-top: 20px;
-    margin-right: 1000px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
     text-align: left;
@@ -68,7 +67,6 @@ img {
 .who{
     height: 250px;
     margin-top: 20px;
-    margin-right: 1000px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
     text-align: right;
@@ -85,26 +83,26 @@ img {
     margin-top: 20px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
-    text-align: right;
+    text-align: left;
 }
 .creating{
     height: 250px;
     margin-top: 20px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
-    text-align: left;
+    text-align: right;
 }
 .educate{
     height: 250px;
     margin-top: 20px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
-    text-align: right;
+    text-align: left;
 }
 .execellence{
     height: 250px;
     margin-top: 20px;
     width: 100%;
     background-color:  rgba(10, 179, 164, 0.562);
-    text-align: left;
+    text-align: right;
 }
