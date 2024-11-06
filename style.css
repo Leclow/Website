@@ -57,38 +57,54 @@ img {
     width: 100%;
     background-color: rgba(255, 145, 0, 0.493);
 }
-.who{
-    height: 200px;
-    margin-top: 6px;
+.A_Societal_Mission{
+    height: 250px;
+    margin-top: 20px;
+    margin-right: 1000px;
     width: 100%;
-    background-color: darkgrey;
+    background-color:  rgba(10, 179, 164, 0.562);
     text-align: left;
 }
-.execellence{
-    height: 200px;
-    margin-top: 6px;
+.who{
+    height: 250px;
+    margin-top: 20px;
+    margin-right: 1000px;
     width: 100%;
-    background-color: darkgrey;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
+}
+.execellence{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color: rgba(10, 179, 164, 0.562);
     text-align: left;
 }
 .rapidly_kms{
-    height: 200px;
-    margin-top: 6px;
+    height: 250px;
+    margin-top: 20px;
     width: 100%;
-    background-color: darkgrey;
-    text-align: left;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
 }
 .creating{
-    height: 200px;
-    margin-top: 6px;
+    height: 250px;
+    margin-top: 20px;
     width: 100%;
-    background-color: darkgrey;
+    background-color:  rgba(10, 179, 164, 0.562);
     text-align: left;
 }
 .educate{
-    height: 200px;
-    margin-top: 6px;
+    height: 250px;
+    margin-top: 20px;
     width: 100%;
-    background-color: darkgrey;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
+}
+.execellence{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color:  rgba(10, 179, 164, 0.562);
     text-align: left;
 }
