@@ -3,15 +3,25 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Helvetica;
+    margin: 0px;
+    padding: 0px;
+}
+.imgIndex {
+    max-width: 100%;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+
 }
 header {
     display:flex;
     align-content: center;
-    top: 10px;
+    top: 0px;
     position: sticky;
     background-color: white;
     padding: 20px;
 }
+
 .navBar {
     position: relative;
     margin-left: 50px;
@@ -32,7 +42,7 @@ header {
 }
 .headerButton{
     text-decoration: none;
-    font-size: large;
+    font-size: x-large;
     color: black;
     display: inline-block;
     margin: 20px;
@@ -47,10 +57,6 @@ header {
 .headerButton:hover:after { transform: scaleX(1); }
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
-
-img {
-    max-width: 1500px;
-}
 .other-block {
     height: 5000px;
     margin-top: 20px;
