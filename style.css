@@ -112,7 +112,13 @@ header {
     background-color:  rgba(10, 179, 164, 0.562);
     text-align: right;
 }
-
+.principalButton {
+    text-decoration: none;
+    background-color: #B1040E;
+    padding:10px;
+    border-radius: 10px;
+    color: white;
+}
 .card {
     border: solid black 2px;
     margin: 20px;
