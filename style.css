@@ -120,9 +120,11 @@ header {
     border-radius: 10px;
     color: white;
 }
+.card-list {
+    background-color: #F0F0F0;
+}
 .card {
     z-index: 1;
-    border: solid black 2px;
     margin: 20px;
     background-color: white;         
     position:relative;          
