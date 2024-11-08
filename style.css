@@ -58,37 +58,59 @@ header {
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
 .other-block {
-    height: 5000px;
+    height: 500px;
     margin-top: 20px;
     width: 100%;
-    background-color: rgb(61, 61, 61);
-  }
-  .another_block{
-    height: 1000px;
-    margin-top: 40px;
+    background-color: rgba(255, 145, 0, 0.493);
+}
+.A_Societal_Mission{
+    height: 250px;
+    margin-top: 20px;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.856);
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: left;
 }
-.And_another_block{
-    height: 100px;
-    margin-top: 40px;
+.who{
+    height: 250px;
+    margin-top: 20px;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.856);
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
 }
-footer {
-    text-align: center;
-    background: linear-gradient(#771212, #620f0f);
+.execellence{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color: rgba(10, 179, 164, 0.562);
+    text-align: left;
 }
-footer p {
-    color: white;
+.rapidly_kms{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: left;
 }
-.principalButton {
-    text-decoration: none;
-    background-color: #B1040E;
-    padding:10px;
-    border-radius: 10px;
-    color: white;
-
+.creating{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
+}
+.educate{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: left;
+}
+.execellence{
+    height: 250px;
+    margin-top: 20px;
+    width: 100%;
+    background-color:  rgba(10, 179, 164, 0.562);
+    text-align: right;
 }
 
 .card {
