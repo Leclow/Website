@@ -163,5 +163,12 @@ header {
 }
 
 #bloc_1 img {
-    width: 50px;
+    size: 50px;
 }
+.container {
+    display: flex;
+    align-items: top; 
+}
+.image {
+    margin-right: 30px;
+}   
