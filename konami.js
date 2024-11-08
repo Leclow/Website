@@ -1,3 +1,4 @@
+
 // a key map of allowed keys
 var allowedKeys = {
   37: 'left',
@@ -38,7 +39,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-   location.href="konami-code.html";
+   location.href="maximax.html";
    //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
     //var audio = new Audio('audio/pling.mp3');
