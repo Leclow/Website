@@ -157,3 +157,11 @@ header {
     align-content: center;
     padding: 20px;
 }
+#bloc_1 {
+    background-color:rgb(201, 30, 144);
+    margin: 20px;
+}
+
+#bloc_1 img {
+    width: 50px;
+}
