@@ -121,6 +121,8 @@ header {
     color: white;
 }
 .card-list {
+    margin-top: 20px;
+    padding: 20px;
     background-color: #F0F0F0;
 }
 .card {
