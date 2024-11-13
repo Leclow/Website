@@ -170,3 +170,9 @@ header {
 #bloc_1 img {
     width: 50px;
 }
+footer {
+    background-color: #8c1515;
+    color: white;
+    padding: 10px;
+    font-size: x-large;
+}
