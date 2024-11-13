@@ -18,6 +18,7 @@ header {
     display:flex;
     align-content: center;
     top: 0px;
+    top: 10px;
     position: sticky;
     background-color: white;
     padding: 20px;
@@ -40,6 +41,7 @@ header {
 .headerLogo img {
     max-width: 20px;
     margin-right: 10px;
+    padding: 10px;
 }
 .headerButton{
     text-decoration: none;
@@ -58,10 +60,18 @@ header {
 .headerButton:hover:after { transform: scaleX(1); }
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
+
+img {
+    max-width: 1500px;
+}
 .other-block {
     height: 500px;
     margin-top: 20px;
     width: 100%;
+    background-color: rgb(85, 85, 85);
+  }
+#bloc1 {
+    background-color:rgb(245, 30, 30);
     background-color: rgba(255, 145, 0, 0.493);
 }
 .A_Societal_Mission{
@@ -158,7 +168,7 @@ header {
     padding: 20px;
 }
 #bloc_1 {
-    background-color:rgb(201, 30, 144);
+    background-color:rgb(175, 175, 175);
     margin: 20px;
 }
 
@@ -166,9 +176,18 @@ header {
     size: 50px;
 }
 .container {
+    width: 100%;
     display: flex;
     align-items: top; 
 }
+
 .image {
-    margin-right: 30px;
-}   
+    float: left;
+    margin-right: 30px; 
+    width: 200px; 
+}
+
+p {
+    overflow: hidden; 
+}
+ 
