@@ -176,3 +176,22 @@ footer {
     padding: 10px;
     font-size: x-large;
 }
+h2 {
+    font-style: normal;
+}
+.divider {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 15px 0px 15px;
+    height: 3px;
+    width: 75%;
+    background-color: black;
+}
+.AdmissionTable {
+    display: inline-block;
+}
+.colonne1, .colonne2, .colonne3 {
+    margin: 25px;
+    width:200px;
+    float:left;
+}
