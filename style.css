@@ -4,7 +4,7 @@ body {
     align-items: center;
     font-family: Helvetica;
     margin: 0px;
-    padding: 0px;
+    padding: 0px;   
 }
 .imgIndex {
     max-width: 100%;
@@ -181,13 +181,8 @@ img {
     align-items: top; 
 }
 
-.image {
-    float: left;
-    margin-right: 30px; 
-    width: 200px; 
-}
+
 
 p {
     overflow: hidden; 
 }
- 
