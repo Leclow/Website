@@ -179,19 +179,34 @@ footer {
 h2 {
     font-style: normal;
 }
-.divider {
+.divider-top {
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     padding: 0px 15px 0px 15px;
-    height: 3px;
-    width: 75%;
+    height: 1px;
+    width: 85%;
+    background-color: black;
+}
+.divider-bottom {
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 15px 0px 15px;
+    height: 1px;
+    width: 85%;
     background-color: black;
 }
 .AdmissionTable {
     display: inline-block;
 }
 .colonne1, .colonne2, .colonne3 {
-    margin: 25px;
-    width:200px;
-    float:left;
+    padding: 0px 50px 0px 50px;
+    float: left;
+}
+.AdmissionTable p {
+    font-size: x-large;
+}
+.AdmissionTable h3 {
+    font-size: xx-large;
 }
