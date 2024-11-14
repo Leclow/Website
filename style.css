@@ -181,16 +181,6 @@ img {
     display: flex;
     align-items: top; 
 }
-<<<<<<< HEAD
-.container img{
-    size: 50px;
-}
-
-
-p {
-    overflow: hidden; 
-}
-=======
 
 .image {
     float: left;
@@ -200,5 +190,3 @@ p {
 }
 
 
-
->>>>>>> 6e1df4d20e6d593e64cc591c64f7e4dcd84964d2
