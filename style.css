@@ -180,7 +180,9 @@ img {
     display: flex;
     align-items: top; 
 }
-
+.container img{
+    size: 50px;
+}
 
 
 p {
