@@ -161,6 +161,7 @@ img {
 }
 .cardImg {
     position: relative;
+    size: 50px;
 }
 .card-list {
     display: flex;
@@ -176,10 +177,11 @@ img {
     size: 50px;
 }
 .container {
-    width: 100%;
+    width: 70%;
     display: flex;
     align-items: top; 
 }
+<<<<<<< HEAD
 .container img{
     size: 50px;
 }
@@ -188,3 +190,15 @@ img {
 p {
     overflow: hidden; 
 }
+=======
+
+.image {
+    float: left;
+    margin-right: 30px; 
+    width: 50px; 
+    border: 3px solid #fff ;
+}
+
+
+
+>>>>>>> 6e1df4d20e6d593e64cc591c64f7e4dcd84964d2
