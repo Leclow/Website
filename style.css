@@ -4,7 +4,7 @@ body {
     align-items: center;
     font-family: Helvetica;
     margin: 0px;
-    padding: 0px;
+    padding: 0px;   
 }
 .imgIndex {
     max-width: 100%;
@@ -40,6 +40,7 @@ header {
 .headerLogo img {
     max-width: 20px;
     margin-right: 10px;
+    padding: 10px;
 }
 .headerButton{
     text-decoration: none;
@@ -58,7 +59,6 @@ header {
 .headerButton:hover:after { transform: scaleX(1); }
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
-
 .A_Societal_Mission{
     height: 250px;
     margin-top: 20px;
@@ -117,7 +117,7 @@ header {
     z-index: 1;
     margin: 20px;
     background-color: white;         
-    position:relative;          
+    position:relative;       
 }
 .cardDate {
     font-size: x-large;
@@ -125,10 +125,11 @@ header {
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 10px;
-    width:  50px;
+    width:  60px;
+    height: 60px;
     aspect-ratio: 1 / 1;
     position: relative;
-    background-color: black;
+    background-color: rgb(43, 34, 34);
     color: white;
 }
 .cardContent {
@@ -140,28 +141,44 @@ header {
 }
 .cardContent h1{
     font-size: xx-large;
+    font-family: Georgia, serif;
+}
+.cardContent p{
+    font-family: "Gill Sans", sans-serif;
+}
+.cardContent h2{
+    color:rgb(107, 0, 62);
 }
 .cardImg {
     position: relative;
-    max-width: fit-content;
+
 }
 .card-list {
+    z-index:2 ;
+    background-color: #F0F0F0;
     display: flex;
     align-content: center;
     padding: 20px;
 }
 
 #bloc_1 {
-    background-color:rgb(201, 30, 144);
+    background-color:rgb(175, 175, 175);
     margin: 20px;
 }
 
 #bloc_1 img {
+    size: 50px;
+}
+.container {
+    width: 70%;
+    display: flex;
+    align-items: top; 
+}
+.image {
+    float: left;
+    margin-right: 30px; 
+    width: 50px; 
+    border: 3px solid #fff ;
+=======
     width: 50px;
-}
-.imgabout {
-    aspect-ratio: 16/9;
-}
-table {
-    top: -100px;
 }
