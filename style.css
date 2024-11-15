@@ -58,60 +58,49 @@ header {
 .headerButton:hover:after { transform: scaleX(1); }
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
-.other-block {
-    height: 500px;
-    margin-top: 20px;
-    width: 100%;
-    background-color: rgba(255, 145, 0, 0.493);
-}
+
 .A_Societal_Mission{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: left;
+    padding: 20px;
 }
 .who{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: right;
+ 
+    padding: 20px;
 }
 .execellence{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color: rgba(10, 179, 164, 0.562);
-    text-align: left;
+    
 }
 .rapidly_kms{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: left;
+   
 }
 .creating{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: right;
+ 
 }
 .educate{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: left;
+
 }
 .execellence{
     height: 250px;
     margin-top: 20px;
     width: 100%;
-    background-color:  rgba(10, 179, 164, 0.562);
-    text-align: right;
+
 }
 .principalButton {
     text-decoration: none;
