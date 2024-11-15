@@ -59,49 +59,7 @@ header {
 .headerButton:hover:after { transform: scaleX(1); }
 .headerButton.fromRight:after{ transform-origin:100% 50%; }
 .headerButton.fromLeft:after{  transform-origin:  0% 50%; }
-.A_Societal_Mission{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
-    padding: 20px;
-}
-.who{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
- 
-    padding: 20px;
-}
-.execellence{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
-    
-}
-.rapidly_kms{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
-   
-}
-.creating{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
- 
-}
-.educate{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
 
-}
-.execellence{
-    height: 250px;
-    margin-top: 20px;
-    width: 100%;
-
-}
 .principalButton {
     text-decoration: none;
     background-color: #B1040E;
@@ -189,11 +147,20 @@ img {
     border: 3px solid #fff ;
     width: 50px;
 }
-imgabout {
+.imgabout {
     aspect-ratio: 16/9;
 }
-table {
+.aboutTable {
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
     top: -100px;
+}
+.AboutPage {
+    background-color: #f2f2f2;
+}
+.AboutPage p, .AboutPage h2 {
+    text-align: left;
 }
 footer {
     background-color: #8c1515;
