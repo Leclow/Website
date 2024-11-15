@@ -225,8 +225,19 @@ h2 {
     max-width: 45%;
     float: left;
 }
+.GradTable {
+    display: inline-block;
+}
+.graduated {
+    background-color: #2F2424;
+    padding: 20px;
+}
+.graduatedh1 {
+    color: white;
+}
 .pGrad {
-    background-color: blue;
+    padding: 50px;
+    background-color: white;
     float: right;
     max-width: 45%;
     text-align: left;
@@ -236,5 +247,6 @@ h2 {
     max-width: 40%;
 }
 .pGrad, .imgGrad {
+    margin-bottom: 50px;
     padding: 0px 50px 0px 50px;
 }
