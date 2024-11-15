@@ -210,3 +210,31 @@ h2 {
 .AdmissionTable h3 {
     font-size: xx-large;
 }
+.UnderTable {
+    display: inline-block;
+}
+.pUnder, .imgUnder {
+    padding: 0px 50px 0px 50px;
+}
+.imgUnder {
+    float: right;
+    max-width: 40%;
+}
+.pUnder {
+    text-align: left;
+    max-width: 45%;
+    float: left;
+}
+.pGrad {
+    background-color: blue;
+    float: right;
+    max-width: 45%;
+    text-align: left;
+}
+.imgGrad {
+    float: left;
+    max-width: 40%;
+}
+.pGrad, .imgGrad {
+    padding: 0px 50px 0px 50px;
+}
