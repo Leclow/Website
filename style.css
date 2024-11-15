@@ -159,3 +159,9 @@ header {
 #bloc_1 img {
     width: 50px;
 }
+.imgabout {
+    aspect-ratio: 16/9;
+}
+table {
+    top: -100px;
+}
