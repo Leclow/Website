@@ -126,13 +126,17 @@ img {
 .principalButton {
     text-decoration: none;
     background-color: #B1040E;
-    padding:10px;
-    border-radius: 10px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 8px;
     color: white;
+}
+.eventsSection {
+    padding: 20px;
+    background-color: #F0F0E0;
 }
 .card {
     z-index: 1;
-    border: solid rgb(255, 255, 255) 2px;
+
     margin: 20px;
     background-color: white;         
     position:relative;       
@@ -169,7 +173,7 @@ img {
 }
 .cardImg {
     position: relative;
-    size: 50px;
+
 }
 .card-list {
     background-color: #F0F0F0;
@@ -177,22 +181,12 @@ img {
     align-content: center;
     padding: 20px;
 }
+
 #bloc_1 {
     background-color:rgb(175, 175, 175);
     margin: 20px;
 }
 
 #bloc_1 img {
-    size: 50px;
-}
-.container {
-    width: 70%;
-    display: flex;
-    align-items: top; 
-}
-.image {
-    float: left;
-    margin-right: 30px; 
-    width: 50px; 
-    border: 3px solid #fff ;
+
 }
