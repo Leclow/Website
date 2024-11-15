@@ -66,10 +66,11 @@ header {
     padding: 10px 50px 10px 50px;
     border-radius: 8px;
     color: white;
+    font-size: x-large;
 }
 .eventsSection {
     padding: 20px;
-    background-color: #F0F0E0;
+    background-color: #eeeeee;
 }
 .card {
     z-index: 1;
@@ -94,18 +95,21 @@ header {
     position: relative;
     background-color: white;
     text-align: left;
-    padding-left: 10px;
+    padding: 0px 2px 0px 10px;
     top: -40px;
 }
 .cardContent h1{
     font-size: xx-large;
-    font-family: Georgia, serif;
 }
 .cardContent p{
-    font-family: "Gill Sans", sans-serif;
+    font-size: large;
+}
+.info {
+    font-weight: 550;
+    color: #0061af;
 }
 .cardContent h2{
-    color:rgb(107, 0, 62);
+    color: #770000;
 }
 .cardImg {
     position: relative;
@@ -113,7 +117,6 @@ header {
 }
 .card-list {
     z-index:2 ;
-    background-color: #F0F0F0;
     display: flex;
     align-content: center;
     padding: 20px;
@@ -152,16 +155,16 @@ img {
 }
 .aboutTable {
     text-align: center;
-    margin: 0px;
-    padding: 20px;
-    top: -100px;
 }
 .AboutPage {
+    padding: 20px;
     background-color: #f2f2f2;
 }
-.AboutPage p, .AboutPage h2 {
+.AboutPage p:not(.importantp), .AboutPage h2:not(.importantp) {
+    margin-left: 30px;
     text-align: left;
 }
+
 footer {
     background-color: #8c1515;
     color: white;
